@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Knot</h1>
-<h3 align="center">A software engineer who passionate in learning and education</h3>
+<h3 align="center">A software engineer who passionate about learning and education</h3>
 
 - 🔭 I’m currently working on [TechUp Thailand](https://www.techupth.com)
 - 💬 Ask me about **Software development, Learning and Education**
